@@ -1,0 +1,10 @@
+{
+  "refs_dir": "C:\\Users\\maha_\\Job_search\\pythonProject2\\pred_masks\\briquet\\masks",
+  "npz_path": "C:\\Users\\maha_\\Job_search\\pythonProject2\\index\\briquet_features.npz",
+  "csv_path": "C:\\Users\\maha_\\Job_search\\pythonProject2\\index\\briquet_features_manifest.csv",
+  "ds_size": 128,
+  "rad_bins": 64,
+  "feature_dim": 16455,
+  "num_items": 16753,
+  "notes": "Feature = [Hu(7), FFT radial profile(rad_bins), downsampled mask(ds_size^2)]"
+}
